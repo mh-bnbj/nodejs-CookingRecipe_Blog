@@ -1,0 +1,16 @@
+
+
+:root{
+    --bs-font-sans-serif: 'Rubik' , sans-serif;
+}
+
+body{
+    background-image: url('/img/i-like-food.svg');
+    background-color: rgb(243, 243, 243);
+}
+
+body {
+  
+  background-image: url('/img/i-like-food.svg');
+    background-color: rgb(243, 243, 243);
+}
